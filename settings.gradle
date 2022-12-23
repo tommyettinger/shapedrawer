@@ -1,2 +1,2 @@
-include 'test', 'drawer'
+include 'test', 'shapedrawer'
 rootProject.name = 'shapedrawer'
